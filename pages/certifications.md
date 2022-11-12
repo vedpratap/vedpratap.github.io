@@ -62,7 +62,7 @@ permalink: /certifications
 </div>
 
 <div class="card">
-  <h3>Shaastra Envoy Team</h3>
+  <h3>Shaastra Envoy Team Member</h3>
   <p><b>Shaastra, IIT Madras</b>, March 2022</p>
   <a href="https://drive.google.com/file/d/10ubTxiq_MD4rfLb7P7JlXZxAoPnsd1qu/view?usp=sharing"><span class="card-link-spanner"></span></a>
 </div>
