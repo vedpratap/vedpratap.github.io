@@ -63,7 +63,7 @@ March 2014 - March 2009
 <p style="margin-bottom:20px;">&#x2022; Git &#x2022; GitLab &#x2022; Github &#x2022; CI/CD &#x2022; Docker</p>
 
 ---
-
+<!---
 ## Professional Experience:
 
 <h3 style="margin-bottom:2px;">Open Financial Technologies Pvt. Ltd.</h3>
@@ -102,7 +102,7 @@ May 2020 - July 2020</p>
   <li>Worked on Cognitive Agent to automate various employee related tasks with RASA framework in Python.</li>
   <li>Worked on UI in Angular and Microservices using Java Spring Boot to process the requests.</li>
 </ul>
-
+-->
 ---
 
 ## Projects:
@@ -143,7 +143,7 @@ May 2020 - July 2020</p>
 [... See all certifications](./certifications)
 
 ---
-
+<!---
 ## Publications:
 
 <h3 style="margin-bottom:2px; color:var(--clr-a-text);"><a href="https://www.sciencedirect.com/science/article/abs/pii/S0147957122000728">Global epidemiology of CTX-M-type β-lactam resistance in human and animal</a></h3>
@@ -157,7 +157,7 @@ Doi: <a href="https://doi.org/10.1016/j.cimid.2022.101815">https://doi.org/10.10
 </ul>
 
 ---
-
+-->
 ## Achievements:
 
 <h4 style="margin-bottom:5px;">Academic Achievements:</h4>
