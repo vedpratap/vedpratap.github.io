@@ -22,10 +22,10 @@ platforms:
     link: ./assets/files/ved_pratap_resume.pdf
   - name: GitHub
     icon: <i class="fa-brands fa-github"></i>
-    link: https://github.com/vaibhavvikas
+    link: https://github.com/vedpratap
   - name: LinkedIn
     icon: <i class="fa-brands fa-linkedin"></i>
-    link: https://www.linkedin.com/in/vaibhavvikas
+    link: https://www.linkedin.com/in/vedpratap
   - name: Projects
     icon: <i class="fa-solid fa-file-code"></i>
     link: ./projects
