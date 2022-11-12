@@ -23,7 +23,7 @@ CGPA: -
 2021 - 2023\
 Grade: -
 
-<h3 style="margin-bottom:2px;">Bachelors of Science (Hons.) Physics</h3>
+<h3 style="margin-bottom:2px;">Bachelor of Science (Hons.) Physics</h3>
 <h4 style="margin:0;">Patna Science College, Patna University (PU)</h4>
 2018 - 2021\
 Grade: Distinction
@@ -40,7 +40,7 @@ Grade: A+
 
 <h3 style="margin-bottom:2px;">Primary School</h3>
 <h4 style="margin:0;">Manas International Public School, Jehanabad, Bihar</h4>
-March 2014 - March 2009\
+March 2014 - March 2009
 
 ---
 
