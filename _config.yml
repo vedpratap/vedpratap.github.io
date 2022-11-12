@@ -3,6 +3,7 @@ logo: /assets/logo.jpg
 email: vpratap8340400@gmail.com
 description: SDE @ Open. Python Developer. Machine Learning.
 favicon: false
+remote_theme: vaibhavvikas/jekyll-theme-minimalistic
 color-scheme: light
 
 google_analytics: G-0RXV630V8X
