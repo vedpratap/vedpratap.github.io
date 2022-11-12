@@ -135,17 +135,9 @@ May 2020 - July 2020</p>
 ## Certifications:
 
 <div class="card">
-  <h3>Google Go Specialization</h3>
-  <p><b>Coursera</b>, October 2022<br>
-  Credential Id: XPZSRCAJNPX2</p>
-  <a href="https://www.coursera.org/account/accomplishments/specialization/XPZSRCAJNPX2"><span class="card-link-spanner"></span></a>
-</div>
-
-<div class="card">
-  <h3>Python Specialization</h3>
-  <p><b>Coursera</b>, August 2020<br>
-  Credential Id: 5JHL6J6K4EKL</p>
-  <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/5JHL6J6K4EKL"><span class="card-link-spanner"></span></a>
+  <h3>Foundation Level in Programming and Data Science</h3>
+  <p><b>Indian Institute of Technology, Madras</b>, December 2021<br></p>
+  <a href="https://drive.google.com/file/d/1sPxlJ-zXIwQpu_CTl7rkdvbbwdc0yevM/view?usp=sharing"><span class="card-link-spanner"></span></a>
 </div>
 
 [... See all certifications](./certifications)
