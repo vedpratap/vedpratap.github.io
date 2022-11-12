@@ -3,11 +3,9 @@ layout: default
 ---
 ## About Me:
 
-I am **Vaibhav Vikas**, a software developer from **NIT Trichy, India**. I have a great experience in Python, Go, Flask, Angular, Node, Microservices and Backend Technologies including Machine Learning. I like to explore technologies and keep on developing new projects.
+I am **Ved Pratap**, a Physicst (PU), Data Scientist and Programmer from **IIT Madras, India**. I have a great experience in Python, Falsk, Vue.js and Backend Technologies including Machine Learning. I like to explore technologies and keep on developing new projects.
 
-I am currently a **Software Developer Engineer** at **Open Financial Technologies Pvt. Ltd.** (Bengaluru, Karnataka), where I am working on [Zwitch](https://www.zwitch.io/).
-
-I developed a keen interest in Machine Learning so I have started studying and implementing different algorithms and analysing various datasets and started competitions on Kaggle.
+I developed a keen interest in Data Science and  Machine Learning so I have started studying and implementing different algorithms and analysing various datasets and started competitions on Kaggle.
 
 ---
 
