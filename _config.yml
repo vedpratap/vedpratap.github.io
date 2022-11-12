@@ -1,14 +1,14 @@
-title: Vaibhav Vikas
-logo: /assets/img/logo.webp
-email: vbhvvikas@gmail.com
+title: Ved Pratap | IITM
+logo: /assets/img/logo.jpg
+email: vpratap8340400@gmail.com
 description: SDE @ Open. Python Developer. Machine Learning.
-favicon: true
+favicon: false
 remote_theme: vaibhavvikas/jekyll-theme-minimalistic
 color-scheme: light
 
 google_analytics: G-0RXV630V8X
 
-url: "https://vaibhavvikas.ml/"
+url: "https://vedpratap.me/"
 
 plugins:
   - jekyll-seo-tag
@@ -19,7 +19,7 @@ plugins:
 platforms:
   - name: Résumé
     icon: <i class="fa-solid fa-file-lines"></i>
-    link: ./assets/files/vaibhav_vikas_resume.pdf
+    link: ./assets/files/ved_pratap_resume.pdf
   - name: GitHub
     icon: <i class="fa-brands fa-github"></i>
     link: https://github.com/vaibhavvikas
