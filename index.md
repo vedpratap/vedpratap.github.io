@@ -162,16 +162,16 @@ Doi: <a href="https://doi.org/10.1016/j.cimid.2022.101815">https://doi.org/10.10
 
 <h4 style="margin-bottom:5px;">Academic Achievements:</h4>
 <ul style="margin-left: -1.4em;">
-  <li>Secured AIR 1 in BIT MCA, AIR 3 in NIMCET, AIR 4 in Pune University, and AIR 10 in BHU All India MCA Entrance Exam in 2018.</li>
-  <li>Winner, KLA+ Cloud Storage Challenge’20 at NIT Tiruchirappalli.</li>
-  <li>Winner, Datathon in Login’19 at PSG College, Coimbatore, Tamil Nadu.</li>
-  <li>Secured 2nd Position in Al-Go-Code in Login’19 at PSG College, Coimbatore, Tamil Nadu.</li>
-  <li>Secured 2nd Position in Weave-o-Web in Infotrek’19 at NIT Trichy.</li>
+  <li>Secured Distinction in Honours and GS Paper. (B.Sc. - Patna University) </li>
+  <li>Secured Zonal Rank 4 in Bihar and International rank 908 in the finals of 10th SOF – IMO Competition held in February 2017.</li>
+  <li>Secured rank 15 in Bihar Zone in the 1st level of 10th SOF International Mathematics Olympiad held during December 2016.</li>
 </ul>
 
 <h4 style="margin-bottom:5px;">Extra Curricular Activities:</h4>
 <ul style="margin-left: -1.4em;">
-  <li>Secured 2nd Position in Graffiti Designing in NITTFEST’19 at NIT Tiruchirappalli.</li>
-  <li>Secured 2nd Position in Wall Painting in NITTFEST’19 at NIT Tiruchirappalli.</li>
-  <li>Secured 2nd Position in Group Street Dance in Rendezvous’14 at IIT Delhi.</li>
+  <li>Participated in the online workshop Optimisation: Theory and Algorithms by Prof. Harish Guruprasad, IIT Madras.</li>
+  <li>Participated in the workshop Learning Analytics: Application of Learning Analytics in Higher Education conducted on 20th May 2022 by IIT Madras at Paradox'22.</li>
+  <li>Participated in the workshop Solving Puzzles with Python conducted on 21st May 2022 by IIT Madras at Paradox'22.</li>
+  <li>Participated in the event Web Crawler Hackathon, Shaastra Programming Contest and LogicX at Shaastra 2022, IIT Madras.</li>
+  <li>Participated in The Kampus Run (5 KM Run), held on 21st May 2022 by IIT Madras at Paradox'22 and successfully completed the race.</li>
 </ul>
