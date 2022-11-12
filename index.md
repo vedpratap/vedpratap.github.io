@@ -108,24 +108,24 @@ May 2020 - July 2020</p>
 ## Projects:
 
 <div class="card">
-  <h3>Housing Price Prediction</h3>
-  <p><b>Python and Machine Learning</b></p>
+  <h3>Quantified Self App - Web Development</h3>
+  <p><b>Python, Flask, HTML, CSS & Bootstrap</b></p>
   <ul>
-    <li>A machine learning project based on Kaggle Housing Price Prediction competition using XGBoost. Got a score of 14997.</li>
-    <li>The project has all the steps including Preprocessing which fixes missing data and categorical data, and Pipeline which streamlines the process in a single step from fitting and predicting the data.</li>
+    <li>Developed a web application which can be used for self-tracking. (Habits, activities, other life parameters etc.)</li>
+    <li>Used Python as a programming language, Flask for application code, Jinja2 for templating, Bootstrap for HTML generation and styling and SQLite for data storage.</li>
   </ul>
-  <a href="https://vaibhavvikas.ml/housing-price-predictor/"><span class="card-link-spanner"></span></a>
+  <a href="https://github.com/vedpratap/Quantified-self-app"><span class="card-link-spanner"></span></a>
 </div>
 
 <div class="card">
-  <h3>Distributed Cloud (KLA+ Hackathon'20)</h3>
-  <p><b>Python and Flask</b></p>
+  <h3>Capstone Project - Business Data Management</h3>
+  <p><b>MS Excel & Powerpoint</b></p>
   <ul>
-    <li>A distributed cloud storage like google drive using Flask, where user can store and retrieve any files.</li>
-    <li>All files are chunked based on the json provided and stored in servers with load balancing.</li>
-    <li>End to End Encryption on chunks to provide extra security.</li>
+    <li>Collected sales and purchases data for one month from a fruit vendor by visiting the shop daily.</li>
+    <li>Entered the data in excel for analysis and made some inferences from it.</li>
+    <li>Suggested some essential things to the fruit vendor for making more profits based on inferences.</li>
   </ul>
-  <a href="https://vaibhavvikas.ml/distributed-cloud"><span class="card-link-spanner"></span></a>
+  <a href="https://docs.google.com/presentation/d/1m8ZBdIW2BF1u8C36d1ML6Xwfv7Tze8YI/edit?usp=sharing&ouid=112484144767309067013&rtpof=true&sd=true"><span class="card-link-spanner"></span></a>
 </div>
 
 [... See all projects](./projects)
