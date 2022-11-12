@@ -13,15 +13,34 @@ I developed a keen interest in Machine Learning so I have started studying and i
 
 ## Education:
 
-<h3 style="margin-bottom:2px;">Master of Computer Applications</h3>
-<h4 style="margin:0;">National Institute of Technology, Tiruchirappalli (NIT Trichy)</h4>
-August 2018 - July 2021\
-CGPA: 9.14/10.0
+<h3 style="margin-bottom:2px;">BS in Data Science and Applications</h3>
+<h4 style="margin:0;">Indian Institute of Technology, Madras (IITM)</h4>
+2021 - 2025 (4 Yrs)\
+CGPA: -
 
-<h3 style="margin-bottom:2px;">Bachelors of Science (Hons.) Mathematics</h3>
-<h4 style="margin:0;">P.G.D.A.V. College (Eve.), University of Delhi (DU)</h4>
-July 2014 - June 2017\
-Percentage: 68.73%
+<h3 style="margin-bottom:2px;">Master of Science, Physics</h3>
+<h4 style="margin:0;">Department of Physics, Patna University (PU)</h4>
+2021 - 2023\
+Grade: -
+
+<h3 style="margin-bottom:2px;">Bachelors of Science (Hons.) Physics</h3>
+<h4 style="margin:0;">Patna Science College, Patna University (PU)</h4>
+2018 - 2021\
+Grade: Distinction
+
+<h3 style="margin-bottom:2px;">All India Senior School Certificate Examination (AISSCE)</h3>
+<h4 style="margin:0;">Gyan Niketan, Patna, Bihar</h4>
+March 2016 - March 2018\
+Grade: A
+
+<h3 style="margin-bottom:2px;">All India Secondary School Examination (AISSE)</h3>
+<h4 style="margin:0;">Bal Vidya Niketan, Jehanabad, Bihar</h4>
+March 2009 - March 2016\
+Grade: A+
+
+<h3 style="margin-bottom:2px;">Primary School</h3>
+<h4 style="margin:0;">Manas International Public School, Jehanabad, Bihar</h4>
+March 2014 - March 2009\
 
 ---
 
