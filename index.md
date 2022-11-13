@@ -21,7 +21,7 @@ CGPA: -
 2021 - 2023\
 Grade: -
 
-<h3 style="margin-bottom:2px;">Bachelor of Science (Hons.) Physics</h3>
+<h3 style="margin-bottom:2px;">Bachelor of Science (Honours), Physics</h3>
 <h4 style="margin:0;">Patna Science College, Patna University (PU)</h4>
 2018 - 2021\
 Grade: Distinction
@@ -45,25 +45,25 @@ March 2014 - March 2009
 ## Skills:
 
 <h4 style="margin-bottom:2px;">Programming Languages:</h4>
-<p style="margin-bottom:4px;">&#x2022; Python &#x2022; Go &#x2022; Java</p>
+<p style="margin-bottom:4px;">&#x2022; Python &#x2022; C &#x2022; C++ &#x2022; Java &#x2022; R</p>
 
 <h4 style="margin-bottom:2px; margin-top:2px;">Data Science:</h4>
-<p style="margin-bottom:4px;">&#x2022; Machine Learning</p>
+<p style="margin-bottom:4px;">&#x2022; Machine Learning &#x2022; Business Data Management &#x2022; Business Analytics</p>
 
 <h4 style="margin-bottom:2px; margin-top:2px;">Frameworks:</h4>
-<p style="margin-bottom:4px;">&#x2022; Gorm &#x2022; Sklearn &#x2022; Pandas &#x2022; NumPy</p>
+<p style="margin-bottom:4px;">&#x2022; NumPy &#x2022; Sklearn &#x2022; Pandas &#x2022; SciPy &#x2022; Matplotlib</p>
 
 <h4 style="margin-bottom:2px; margin-top:2px;">Web Frameworks & Libraries:</h4>
-<p style="margin-bottom:4px;">&#x2022; Flask &#x2022; Gin &#x2022; Angular &#x2022; Angular Material</p>
+<p style="margin-bottom:4px;">&#x2022; Flask &#x2022; Vue.js </p>
 
 <h4 style="margin-bottom:2px; margin-top:2px;">Operating Systems:</h4>
-<p style="margin-bottom:4px;">&#x2022; Windows &#x2022; Linux (Ubuntu, Red Hat) &#x2022; Mac OS</p>
+<p style="margin-bottom:4px;">&#x2022; Windows &#x2022; Linux (Ubuntu) &#x2022; Mac OS</p>
 
 <h4 style="margin-bottom:2px; margin-top:2px;">Others:</h4>
 <p style="margin-bottom:20px;">&#x2022; Git &#x2022; GitLab &#x2022; Github &#x2022; CI/CD &#x2022; Docker</p>
-
----
 <!---
+---
+
 ## Professional Experience:
 
 <h3 style="margin-bottom:2px;">Open Financial Technologies Pvt. Ltd.</h3>
