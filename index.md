@@ -140,6 +140,14 @@ May 2020 - July 2020</p>
   <a href="https://drive.google.com/file/d/1sPxlJ-zXIwQpu_CTl7rkdvbbwdc0yevM/view?usp=sharing"><span class="card-link-spanner"></span></a>
 </div>
 
+<div class="card">
+  <h3>Programming in Java</h3>
+  <p><b>NPTEL, IIT Madras</b>, October 2022<br></p>
+  <a href="https://drive.google.com/file/d/1wI22rmpA37EgdS85yFgZ1iXCSYCyjC_H/view?usp=sharing"><span class="card-link-spanner"></span></a>
+</div>
+
+
+
 [... See all certifications](./certifications)
 
 ---
