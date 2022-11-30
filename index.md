@@ -13,7 +13,7 @@ I developed a keen interest in Data Science and  Machine Learning so I have star
 
 <h3 style="margin-bottom:2px;">BS in Data Science and Applications</h3>
 <h4 style="margin:0;">Indian Institute of Technology, Madras (IITM)</h4>
-2021 - 2025 (4 Yrs)\
+2020 - 2024 (4 Yrs)\
 CGPA: -
 
 <h3 style="margin-bottom:2px;">Master of Science, Physics</h3>
