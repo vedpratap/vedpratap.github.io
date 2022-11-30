@@ -3,7 +3,7 @@ layout: default
 ---
 ## About Me:
 
-I am **Ved Pratap**, a Physicst (PU), Data Scientist and Programmer from **IIT Madras, India**. I have a great experience in Python, Falsk, Vue.js and Backend Technologies including Machine Learning. I like to explore technologies and keep on developing new projects.
+I am **Ved Pratap**, a Physicist (PU), Data Scientist and Programmer from **IIT Madras, India**. I have a great experience in Python, Falsk, Vue.js and Backend Technologies including Machine Learning. I like to explore technologies and keep on developing new projects.
 
 I developed a keen interest in Data Science and  Machine Learning so I have started studying and implementing different algorithms and analysing various datasets and started competitions on Kaggle.
 
