@@ -33,12 +33,12 @@ Grade: A
 
 <h3 style="margin-bottom:2px;">All India Secondary School Examination (AISSE)</h3>
 <h4 style="margin:0;">Bal Vidya Niketan, Jehanabad, Bihar</h4>
-March 2009 - March 2016\
+March 2014 - March 2016\
 Grade: A+
 
 <h3 style="margin-bottom:2px;">Primary School</h3>
 <h4 style="margin:0;">Manas International Public School, Jehanabad, Bihar</h4>
-March 2014 - March 2009
+March 2009 - March 2014
 
 ---
 
