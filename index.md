@@ -146,6 +146,11 @@ May 2020 - July 2020</p>
   <a href="https://drive.google.com/file/d/1wI22rmpA37EgdS85yFgZ1iXCSYCyjC_H/view?usp=sharing"><span class="card-link-spanner"></span></a>
 </div>
 
+<div class="card">
+  <h3>Olympiad on Mathematics and Statistics</h3>
+  <p><b>IITM BS Maths & Stats Academic Cell</b>, December2022<br></p>
+  <a href="https://drive.google.com/file/d/1y4EdqbzlTSWZfiqy6t8o0-9BZCPNX8lU/view?usp=sharing"><span class="card-link-spanner"></span></a>
+</div>
 
 
 [... See all certifications](./certifications)
@@ -170,6 +175,7 @@ Doi: <a href="https://doi.org/10.1016/j.cimid.2022.101815">https://doi.org/10.10
 
 <h4 style="margin-bottom:5px;">Academic Achievements:</h4>
 <ul style="margin-left: -1.4em;">
+  <li>Qualified the first round of the Olympiad on Mathematics and Statistics conducted by IITM BS Maths and Stats Academic cell.</li>
   <li>Secured Distinction in Honours and GS Paper. (B.Sc. - Patna University) </li>
   <li>Secured Zonal Rank 4 in Bihar and International rank 908 in the finals of 10th SOF – IMO Competition held in February 2017.</li>
   <li>Secured rank 15 in Bihar Zone in the 1st level of 10th SOF International Mathematics Olympiad held during December 2016.</li>
