@@ -60,7 +60,7 @@ March 2009 - March 2014
 <p style="margin-bottom:4px;">&#x2022; Windows &#x2022; Linux (Ubuntu) &#x2022; Mac OS</p>
 
 <h4 style="margin-bottom:2px; margin-top:2px;">Others:</h4>
-<p style="margin-bottom:20px;">&#x2022; Git &#x2022; Sciab &#x2022; Github</p>
+<p style="margin-bottom:20px;">&#x2022; Git &#x2022; Scilab &#x2022; Github</p>
 <!---
 ---
 
