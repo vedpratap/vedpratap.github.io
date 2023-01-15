@@ -45,7 +45,7 @@ March 2009 - March 2014
 ## Skills:
 
 <h4 style="margin-bottom:2px;">Programming Languages:</h4>
-<p style="margin-bottom:4px;">&#x2022; Python &#x2022; C &#x2022; C++ &#x2022; Java &#x2022; R</p>
+<p style="margin-bottom:4px;">&#x2022; Python &#x2022; C &#x2022; C++ &#x2022; Java &#x2022; R &#x2022; PHP</p>
 
 <h4 style="margin-bottom:2px; margin-top:2px;">Data Science:</h4>
 <p style="margin-bottom:4px;">&#x2022; Machine Learning &#x2022; Business Data Management &#x2022; Business Analytics</p>
@@ -60,7 +60,7 @@ March 2009 - March 2014
 <p style="margin-bottom:4px;">&#x2022; Windows &#x2022; Linux (Ubuntu) &#x2022; Mac OS</p>
 
 <h4 style="margin-bottom:2px; margin-top:2px;">Others:</h4>
-<p style="margin-bottom:20px;">&#x2022; Git &#x2022; GitLab &#x2022; Github &#x2022; CI/CD &#x2022; Docker</p>
+<p style="margin-bottom:20px;">&#x2022; Git &#x2022; Sciab &#x2022; Github</p>
 <!---
 ---
 
