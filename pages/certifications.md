@@ -7,8 +7,14 @@ permalink: /certifications
 
 ## Certifications:
 <div class="card">
+  <h3>Microsoft Azure Data Fundamentals (DP-900)</h3>
+  <p><b>Microsoft</b>, January 2022<br></p>
+  <a href="https://drive.google.com/file/d/1EiwDYXbL1D_9QSslXJn84oi5l5yGSwp9/view?usp=sharing"><span class="card-link-spanner"></span></a>
+</div>
+
+<div class="card">
   <h3>Olympiad on Mathematics and Statistics</h3>
-  <p><b>IITM BS Maths & Stats Academic Cell</b>, December2022<br></p>
+  <p><b>IITM BS Maths & Stats Academic Cell</b>, December 2022<br></p>
   <a href="https://drive.google.com/file/d/1y4EdqbzlTSWZfiqy6t8o0-9BZCPNX8lU/view?usp=sharing"><span class="card-link-spanner"></span></a>
 </div>
 
