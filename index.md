@@ -3,7 +3,7 @@ layout: default
 ---
 ## About Me:
 
-I am **Ved Pratap**, a Physicist (PU), Data Scientist and Programmer from **IIT Madras, India**. I have a great experience in Python, Falsk, Vue.js and Backend Technologies including Machine Learning. I like to explore technologies and keep on developing new projects.
+I am **Ved Pratap**, a Physicist (PU), Data Scientist and Programmer from **IIT Madras, India**. Currently gaining experience in Python, Flask, Vue.js and Backend Technologies including Machine Learning. I like to explore technologies and keep on developing new projects.
 
 I developed a keen interest in Data Science and  Machine Learning so I have started studying and implementing different algorithms and analysing various datasets and started competitions on Kaggle.
 
@@ -109,7 +109,7 @@ May 2020 - July 2020</p>
 
 <div class="card">
   <h3>Quantified Self App - Web Development</h3>
-  <p><b>Python, Flask, HTML, CSS & Bootstrap</b></p>
+  <p><b>Python, Flask, MySQL, HTML, CSS & Bootstrap</b></p>
   <ul>
     <li>Developed a web application which can be used for self-tracking. (Habits, activities, other life parameters etc.)</li>
     <li>Used Python as a programming language, Flask for application code, Jinja2 for templating, Bootstrap for HTML generation and styling and SQLite for data storage.</li>
