@@ -7,8 +7,14 @@ permalink: /certifications
 
 ## Certifications:
 <div class="card">
+  <h3>Vue.js</h3>
+  <p><b>Infosys Springboard</b>, January 2023<br></p>
+  <a href="https://drive.google.com/file/d/1ZWWHZe_TMF0olBRCUj3rIplvvXmjn-hd/view?usp=sharing"><span class="card-link-spanner"></span></a>
+</div>
+
+<div class="card">
   <h3>Microsoft Azure Data Fundamentals (DP-900)</h3>
-  <p><b>Microsoft</b>, January 2022<br></p>
+  <p><b>Microsoft</b>, January 2023<br></p>
   <a href="https://drive.google.com/file/d/1EiwDYXbL1D_9QSslXJn84oi5l5yGSwp9/view?usp=sharing"><span class="card-link-spanner"></span></a>
 </div>
 
