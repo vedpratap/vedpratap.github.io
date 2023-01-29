@@ -26,3 +26,12 @@ permalink: /projects
   <a href="https://docs.google.com/presentation/d/1m8ZBdIW2BF1u8C36d1ML6Xwfv7Tze8YI/edit?usp=sharing&ouid=112484144767309067013&rtpof=true&sd=true"><span class="card-link-spanner"></span></a>
 </div>
 
+<div class="card">
+  <h3>Restaurants Management System - Self Project</h3>
+  <p><b>Vue.js, HTML, CSS, Axios, json-server</b></p>
+  <ul>
+    <li>Developed a CRUD web application which can be used for storing restaurant details.</li>
+    <li>Used Vue.js for frontend, json-server for APIs, Axios for making HTTP requests, Bootstrap for HTML generation and styling.</li>
+  </ul>
+  <a href="https://github.com/vedpratap/Restaurant-Management-System"><span class="card-link-spanner"></span></a>
+</div>
