@@ -32,6 +32,12 @@ platforms:
   - name: Certifications
     icon: <i class="fa-solid fa-award"></i>
     link: ./certifications
+  - name: CodeChef
+    icon: <i class="fa-duotone fa-laptop-code"></i>
+    link: https://www.codechef.com/users/vedpratap
+  - name: HackerRank
+    icon: <i class="fa-duotone fa-laptop-code"></i>
+    link: https://www.hackerrank.com/21f1000886
   - name: Open Source
     icon: <i class="fa-solid fa-ghost"></i>
     link: ./open-source
