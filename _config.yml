@@ -34,7 +34,7 @@ platforms:
     link: ./certifications
   - name: LeetCode
     icon: <i class="fa-solid fa-laptop-code"></i>
-    link: https://www.codechef.com/users/vedpratap
+    link: https://leetcode.com/vedpratap/
   - name: CodeChef
     icon: <i class="fa-solid fa-laptop-code"></i>
     link: https://www.codechef.com/users/vedpratap
