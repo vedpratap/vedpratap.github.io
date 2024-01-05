@@ -16,9 +16,13 @@
     {% endif %}
     {% seo %}
     <style>
+      .badge {
+        padding: 4px 8px;
+        text-align: center;
+        border-radius: 5px;
+      }
       .badge-success{
-        border-style : solid;
-        background-color : grey;
+        background-color : green;
       }
     </style>
     <link rel="stylesheet" href="{{ "/assets/css/colors-ColorScheme.css?v=" | replace: "ColorScheme", ColorScheme | append: site.github.build_revision | relative_url }}">
