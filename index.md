@@ -1,8 +1,9 @@
 ---
 layout: default
 ---
+<h4 style="margin-bottom:2px;">Summary:</h4>
+<p style="margin-bottom:4px;">&#x2022; Projects : <span>2</span><br> &#x2022; Certificates : <span>10<span></p>
 
-Projects<span class="badge bg-secondary">2</span></h1>Certificates<span class="badge bg-secondary">2</span></h1>
 ## About Me:
 
 I am **Ved Pratap**, a Physicist (PU), Data Scientist and Programmer from **IIT Madras, India**. Currently gaining experience in Python, Flask, Vue.js and Backend Technologies including Machine Learning. I like to explore technologies and keep on developing new projects.
