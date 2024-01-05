@@ -2,7 +2,7 @@
 layout: default
 ---
 <h4 style="margin-bottom:2px;">Summary:</h4>
-<p style="margin-bottom:4px;">&#x2022; Projects : <span>2</span><br> &#x2022; Certificates : <span>10<span></p>
+<p style="margin-bottom:4px;">&#x2022; Projects : <span class="badge text-bg-success">Success</span><br> &#x2022; Certificates : <span class="badge text-bg-success">Success</span></p>
 
 ## About Me:
 
