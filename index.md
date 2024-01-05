@@ -13,13 +13,13 @@ I developed a keen interest in Data Science and  Machine Learning so I have star
 
 <h3 style="margin-bottom:2px;">BS in Data Science and Applications</h3>
 <h4 style="margin:0;">Indian Institute of Technology, Madras (IITM)</h4>
-2020 - 2024 (4 Yrs)\
+2021 - 2025 (4 Yrs)\
 CGPA: -
 
 <h3 style="margin-bottom:2px;">Master of Science, Physics</h3>
 <h4 style="margin:0;">Department of Physics, Patna University (PU)</h4>
 2021 - 2023\
-Grade: -
+CGPA : 7.5
 
 <h3 style="margin-bottom:2px;">Bachelor of Science (Honours), Physics</h3>
 <h4 style="margin:0;">Patna Science College, Patna University (PU)</h4>
