@@ -1,14 +1,13 @@
 ---
 layout: default
 ---
+<p style="margin-bottom:4px;">&#x2022; Projects : <span class="badge text-bg-success">5</span> &#x2022; Certificates : <span class="badge text-bg-success">20</span></p>
+
 ## About Me:
 
 I am **Ved Pratap**, a Physicist (PU), Data Scientist and Programmer from **IIT Madras, India**. Currently gaining experience in Python, Flask, Vue.js and Backend Technologies including Machine Learning. I like to explore technologies and keep on developing new projects.
 
 I developed a keen interest in Data Science and  Machine Learning so I have started studying and implementing different algorithms and analysing various datasets and started competitions on Kaggle.
-
-<h4 style="margin-bottom:2px;">Summary:</h4>
-<p style="margin-bottom:4px;">&#x2022; Projects : <span class="badge text-bg-success">Success</span><br> &#x2022; Certificates : <span class="badge text-bg-success">Success</span></p>
 
 ---
 
