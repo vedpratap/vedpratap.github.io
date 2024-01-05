@@ -1,6 +1,8 @@
 ---
 layout: default
 ---
+
+Projects<span class="badge bg-secondary">2</span></h1>Certificates<span class="badge bg-secondary">2</span></h1>
 ## About Me:
 
 I am **Ved Pratap**, a Physicist (PU), Data Scientist and Programmer from **IIT Madras, India**. Currently gaining experience in Python, Flask, Vue.js and Backend Technologies including Machine Learning. I like to explore technologies and keep on developing new projects.
