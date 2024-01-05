@@ -1,7 +1,6 @@
 ---
 layout: default
 ---
-<p style="margin-bottom:4px;">&#x2022; Projects : <span class="badge text-bg-success">5</span> &#x2022; Certificates : <span class="badge text-bg-success">20</span></p>
 
 ## About Me:
 
