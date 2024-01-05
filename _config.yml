@@ -26,10 +26,10 @@ platforms:
   - name: LinkedIn
     icon: <i class="fa-brands fa-linkedin"></i>
     link: https://www.linkedin.com/in/vedpratap
-  - name: Projects <span class="badge badge-success">5</span>
+  - name: Projects <span class="badge badge-success">3</span>
     icon: <i class="fa-solid fa-file-code"></i>
     link: ./projects
-  - name: Certifications <span class="badge badge-success">5</span>
+  - name: Certifications <span class="badge badge-success">16</span>
     icon: <i class="fa-solid fa-award"></i>
     link: ./certifications
   - name: LeetCode
