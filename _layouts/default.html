@@ -15,6 +15,11 @@
     <title>{{ site.title }}</title>
     {% endif %}
     {% seo %}
+    <style>
+      .badge-sucess{
+        border-width : 2px;
+      }
+    </style>
     <link rel="stylesheet" href="{{ "/assets/css/colors-ColorScheme.css?v=" | replace: "ColorScheme", ColorScheme | append: site.github.build_revision | relative_url }}">
     <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
     <link rel="preload" href="{{site.logo | relative_url}}" as="image">
