@@ -45,16 +45,16 @@ March 2009 - March 2014
 ## Skills:
 
 <h4 style="margin-bottom:2px;">Programming Languages:</h4>
-<p style="margin-bottom:4px;">&#x2022; Python &#x2022; C &#x2022; C++ &#x2022; Java &#x2022; R &#x2022; PHP</p>
+<p style="margin-bottom:4px;">&#x2022; Python &#x2022; C &#x2022; C++ &#x2022; Java &#x2022; R &#x2022; PHP &#x2022; Ruby &#x2022; C# &#x2022; .net</p>
 
-<h4 style="margin-bottom:2px; margin-top:2px;">Data Science:</h4>
-<p style="margin-bottom:4px;">&#x2022; Machine Learning &#x2022; Business Data Management &#x2022; Business Analytics</p>
+<h4 style="margin-bottom:2px; margin-top:2px;">Data Science/Management:</h4>
+<p style="margin-bottom:4px;">&#x2022; Machine Learning &#x2022; Business Data Management &#x2022; Business Analytics &#x2022; SQL &#x2022; MongoDb</p>
 
-<h4 style="margin-bottom:2px; margin-top:2px;">Frameworks:</h4>
+<h4 style="margin-bottom:2px; margin-top:2px;">Python Libraries:</h4>
 <p style="margin-bottom:4px;">&#x2022; NumPy &#x2022; Sklearn &#x2022; Pandas &#x2022; SciPy &#x2022; Matplotlib</p>
 
-<h4 style="margin-bottom:2px; margin-top:2px;">Web Frameworks & Libraries:</h4>
-<p style="margin-bottom:4px;">&#x2022; Flask &#x2022; Vue.js </p>
+<h4 style="margin-bottom:2px; margin-top:2px;">Web Technologies:</h4>
+<p style="margin-bottom:4px;">&#x2022; HTML &#x2022; CSS &#x2022; JavaScript &#x2022; Flask &#x2022; Django &#x2022; Vue.js </p>
 
 <h4 style="margin-bottom:2px; margin-top:2px;">Operating Systems:</h4>
 <p style="margin-bottom:4px;">&#x2022; Windows &#x2022; Linux (Ubuntu) &#x2022; Mac OS</p>
