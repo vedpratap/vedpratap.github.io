@@ -6,8 +6,8 @@ permalink: /projects
 
 ## Projects:
 <div class="card">
-  <h3>Quantified Self App - Web Development</h3>
-  <p><b>Python, Flask, HTML, CSS & Bootstrap</b></p>
+  <h3>Grocery Store application - Web Development</h3>
+  <p><b>Python, Flask, HTML, VueJs, JavaScript, CSS & Bootstrap</b></p>
   <ul>
     <li>Developed a multi-user application facilitating the buying and selling of groceries and enhanced user experience by
 80% by implementing search/filter functionalities using VueJS.</li>
@@ -15,6 +15,18 @@ permalink: /projects
 Bootstrap.</li>
     <li>Optimized application performance by 60% by implementing Redis for caching, and utilized Redis with Celery for the
 execution of batch jobs.</li>
+  </ul>
+  <a href="https://github.com/vedpratap/grocery_app_v2.0"><span class="card-link-spanner"></span></a>
+</div>
+
+<div class="card">
+  <h3>Quantified Self App - Web Development</h3>
+  <p><b>Python, Flask, HTML, CSS & Bootstrap</b></p>
+  <ul>
+    <li>Created a user-friendly web application platform for personalized self-tracking.It will grow the efficiency and scalability of manual tracking by 90%</li>
+    <li>Optimized the web page styling and responsiveness by 90% by using Bootstrap as a CSS framework.</li>
+    <li>– Intensified the interaction with the database by 80% by employing SQLite as a key step for structured data storage
+solutions.</li>
   </ul>
   <a href="https://github.com/vedpratap/Quantified-self-app"><span class="card-link-spanner"></span></a>
 </div>
