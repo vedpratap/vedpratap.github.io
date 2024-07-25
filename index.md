@@ -147,6 +147,12 @@ May 2020 - July 2020</p>
 </div>
 
 <div class="card">
+  <h3>Microsoft Azure Data Fundamentals (DP-900)</h3>
+  <p><b>Microsoft</b>, January 2023<br></p>
+  <a href="https://drive.google.com/file/d/1EiwDYXbL1D_9QSslXJn84oi5l5yGSwp9/view?usp=sharing"><span class="card-link-spanner"></span></a>
+</div>
+
+<div class="card">
   <h3>Programming in Java</h3>
   <p><b>NPTEL, IIT Madras</b>, October 2022<br></p>
   <a href="https://drive.google.com/file/d/1wI22rmpA37EgdS85yFgZ1iXCSYCyjC_H/view?usp=sharing"><span class="card-link-spanner"></span></a>
