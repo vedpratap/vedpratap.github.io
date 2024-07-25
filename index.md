@@ -147,23 +147,10 @@ May 2020 - July 2020</p>
 </div>
 
 <div class="card">
-  <h3>Foundation Level in Programming and Data Science</h3>
-  <p><b>Indian Institute of Technology, Madras</b>, December 2021<br></p>
-  <a href="https://drive.google.com/file/d/1sPxlJ-zXIwQpu_CTl7rkdvbbwdc0yevM/view?usp=sharing"><span class="card-link-spanner"></span></a>
-</div>
-
-<div class="card">
   <h3>Programming in Java</h3>
   <p><b>NPTEL, IIT Madras</b>, October 2022<br></p>
   <a href="https://drive.google.com/file/d/1wI22rmpA37EgdS85yFgZ1iXCSYCyjC_H/view?usp=sharing"><span class="card-link-spanner"></span></a>
 </div>
-
-<div class="card">
-  <h3>Olympiad on Mathematics and Statistics</h3>
-  <p><b>IITM BS Maths & Stats Academic Cell</b>, December2022<br></p>
-  <a href="https://drive.google.com/file/d/1y4EdqbzlTSWZfiqy6t8o0-9BZCPNX8lU/view?usp=sharing"><span class="card-link-spanner"></span></a>
-</div>
-
 
 [... See all certifications](./certifications)
 
