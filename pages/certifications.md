@@ -13,6 +13,12 @@ permalink: /certifications
 </div>
 
 <div class="card">
+  <h3>Programming in C</h3>
+  <p><b>Infosys Springboard</b>, February 2023<br></p>
+  <a href="https://drive.google.com/file/d/1hNse7iZ8MbRmviZjRKhIhrEvb_TOQuEd/view"><span class="card-link-spanner"></span></a>
+</div>
+
+<div class="card">
   <h3>Vue.js</h3>
   <p><b>Infosys Springboard</b>, January 2023<br></p>
   <a href="https://drive.google.com/file/d/1ZWWHZe_TMF0olBRCUj3rIplvvXmjn-hd/view?usp=sharing"><span class="card-link-spanner"></span></a>
