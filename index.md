@@ -134,6 +134,11 @@ May 2020 - July 2020</p>
 ---
 
 ## Certifications:
+<div class="card">
+  <h3>Programming in Python</h3>
+  <p><b>SWAYAM MHRD</b>, April 2023<br></p>
+  <a href="https://drive.google.com/file/d/1_RJI8LP5t3_oBoQyDe4Li6ZysmctHOXc/view"><span class="card-link-spanner"></span></a>
+</div>
 
 <div class="card">
   <h3>Foundation Level in Programming and Data Science</h3>
