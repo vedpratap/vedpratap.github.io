@@ -6,6 +6,17 @@ permalink: /projects
 
 ## Projects:
 <div class="card">
+  <h3>Personal Finance Management</h3>
+  <p><b>Research, Interviews, Data</b></p>
+  <ul>
+    <li>Worked with a team project titled "Personal Finance Management," achieving 60% improvement in understanding personal finance practices through detailed analysis and strategic formulation.</li>
+    <li>Established and coordinated team leadership, roles, and decision-making processes using Gmail, WhatsApp, and Google Workspace, ensuring efficient communication and collaboration among 6 team members.</li>
+  <li>Implemented conflict resolution strategies emphasizing private discussions and active listening, resulting in 90% reduction in conflicts and fostering a cohesive team environment focused on achieving project goals.</li>
+  </ul>
+  <a href="https://drive.google.com/file/d/165h7GrT_fo3K7wFvjBFQLCyi8vfnrH40/view"><span class="card-link-spanner"></span></a>
+</div>
+
+<div class="card">
   <h3>Taxi Fare Guru: Total Amount Prediction Challenge</h3>
   <p><b>Python, Machine Learning</b></p>
   <ul>
