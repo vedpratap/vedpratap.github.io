@@ -7,6 +7,12 @@ permalink: /certifications
 
 ## Certifications:
 <div class="card">
+  <h3>Programming in Python</h3>
+  <p><b>SWAYAM MHRD</b>, April 2023<br></p>
+  <a href="https://drive.google.com/file/d/1_RJI8LP5t3_oBoQyDe4Li6ZysmctHOXc/view"><span class="card-link-spanner"></span></a>
+</div>
+
+<div class="card">
   <h3>Vue.js</h3>
   <p><b>Infosys Springboard</b>, January 2023<br></p>
   <a href="https://drive.google.com/file/d/1ZWWHZe_TMF0olBRCUj3rIplvvXmjn-hd/view?usp=sharing"><span class="card-link-spanner"></span></a>
