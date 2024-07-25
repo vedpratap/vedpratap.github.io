@@ -35,7 +35,7 @@ execution of batch jobs.</li>
   <ul>
     <li>Created a user-friendly web application platform for personalized self-tracking.It will grow the efficiency and scalability of manual tracking by 90%</li>
     <li>Optimized the web page styling and responsiveness by 90% by using Bootstrap as a CSS framework.</li>
-    <li>– Intensified the interaction with the database by 80% by employing SQLite as a key step for structured data storage
+    <li>Intensified the interaction with the database by 80% by employing SQLite as a key step for structured data storage
 solutions.</li>
   </ul>
   <a href="https://github.com/vedpratap/Quantified-self-app"><span class="card-link-spanner"></span></a>
