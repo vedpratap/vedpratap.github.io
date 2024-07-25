@@ -6,6 +6,16 @@ permalink: /projects
 
 ## Projects:
 <div class="card">
+  <h3>Taxi Fare Guru: Total Amount Prediction Challenge</h3>
+  <p><b>Python, Machine Learning</b></p>
+  <ul>
+    <li>Developed and implemented predictive models leveraging machine learning algorithms to forecast taxi fare amounts with 94% accuracy, exceeding baseline models by 32%.</li>
+    <li>Analyzed and processed 26.3 MB of historical taxi ride data using Python and SQL, identifying key features that significantly influence fare prediction accuracy.</li>
+  </ul>
+  <a href="https://www.kaggle.com/competitions/taxi-fare-guru-total-amount-prediction-challenge/leaderboard"><span class="card-link-spanner"></span></a>
+</div>
+
+<div class="card">
   <h3>Grocery Store application - Web Development</h3>
   <p><b>Python, Flask, HTML, VueJs, JavaScript, CSS & Bootstrap</b></p>
   <ul>
