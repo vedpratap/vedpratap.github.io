@@ -29,7 +29,7 @@ platforms:
   - name: Projects <span class="badge badge-success">3</span>
     icon: <i class="fa-solid fa-file-code"></i>
     link: ./projects
-  - name: Certifications <span class="badge badge-success">16</span>
+  - name: Certifications <span class="badge badge-success">19</span>
     icon: <i class="fa-solid fa-award"></i>
     link: ./certifications
   - name: LeetCode
